@@ -75,7 +75,7 @@ tr {
 
 <table>
 <thead><tr style="transform: translateX(0);">
-<th colspan="2">My GitHub Statistics</br>我的Github數據</th>
+<th colspan="2">My GitHub Statistics<br>我的Github數據</th>
 </tr></thead>
 <tbody>
 
